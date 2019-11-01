@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/10365167/geom-bar-bars-not-displaying-when-specifying-ylim
+scale_y_continue (limits=c(a,b))
+
